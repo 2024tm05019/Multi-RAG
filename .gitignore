@@ -1,0 +1,6 @@
+.env
+__pycache__/
+.cache/
+*.pyc
+chroma_db/
+faiss_index/
